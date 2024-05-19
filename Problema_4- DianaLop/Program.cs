@@ -5,9 +5,6 @@
  * GRUPO: 213022-31
  */
 
-
-using System.Runtime.CompilerServices;
-
 class Problema_4
 {
     private static string? nombreUsuario;
