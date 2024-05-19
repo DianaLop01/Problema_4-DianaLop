@@ -1,4 +1,12 @@
-﻿using System.Runtime.CompilerServices;
+﻿/*
+ * TRABAJO UNIVERSIDAD: UNAD
+ * CURSO: FUNDAMENTOS DE PROGRAMACION
+ * PERIODO: 16-2
+ * GRUPO: 213022-31
+ */
+
+
+using System.Runtime.CompilerServices;
 
 class Problema_4
 {
